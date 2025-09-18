@@ -1,0 +1,11 @@
+customer_id,tenure_months,monthly_charges,total_charges,contract_type,has_complaints,churn_label
+C001,12,39.99,479.88,month-to-month,1,1
+C002,24,29.99,719.76,one-year,0,0
+C003,6,49.99,299.94,month-to-month,1,1
+C004,18,35.00,630.00,one-year,0,0
+C005,3,59.00,177.00,month-to-month,1,1
+C006,30,25.00,750.00,two-year,0,0
+C007,9,45.00,405.00,month-to-month,0,0
+C008,15,40.00,600.00,one-year,0,0
+C009,2,60.00,120.00,month-to-month,1,1
+C010,20,33.00,660.00,two-year,0,0
